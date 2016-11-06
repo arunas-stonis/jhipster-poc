@@ -25,6 +25,7 @@
     "nativeLanguage": "en",
     "languages": [
       "en"
-    ]
+    ],
+    "herokuAppName": "damp-hamlet-79866"
   }
 }
